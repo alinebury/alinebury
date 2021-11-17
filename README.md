@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
   
 -->
+
+<div>
+  
+  ![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
