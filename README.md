@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <div align="left">
   <a href="https://github.com/alinebury">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
   
--->
+
 
 <div>
   
