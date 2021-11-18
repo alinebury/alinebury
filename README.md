@@ -19,22 +19,23 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://github.com/alinebury">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
+-->
   
+![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg)
+
+ <!--
+<img src="https://user-images.githubusercontent.com/94149084/142302512-3bff2976-0caf-45a6-8b76-e07f7a1f2544.png" width="130" align="right">
+
+
+ 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
-  
--->
 
-<div>
-  
-  ![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+-->
