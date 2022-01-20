@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight"/>
 -->
   
-![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg) -->
 
  <!--
 <img src="https://user-images.githubusercontent.com/94149084/142302512-3bff2976-0caf-45a6-8b76-e07f7a1f2544.png" width="130" align="right">
