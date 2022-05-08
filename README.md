@@ -1,41 +1,41 @@
-### Hi there 👋 :octocat:
+<h3><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Olá, eu sou Aline Bury </h3>
 
-<!--
-**alinebury/alinebury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+ Tenho 25 anos, moro em curitiba/PR.
+<br>
+ Sou estudante de desenvolvimento Web na Trybe e Sistema de informação na UTFPR.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<div align="left">
+<div align="center">
   <a href="https://github.com/alinebury">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight"/>
--->
-  
-<!-- ![Snake animation](https://github.com/alinebury/alinebury/blob/output/github-contribution-grid-snake.svg) -->
-
- <!--
-<img src="https://user-images.githubusercontent.com/94149084/142302512-3bff2976-0caf-45a6-8b76-e07f7a1f2544.png" width="130" align="right">
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
  
+  <div>
+    <br>
+    <p>
+      Linguagens, Frameworks & Ferramentas.
+    </p>
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
-
--->
+<div> 
+  <br>
+  <p>
+    Contato.
+  </p>
+  <a href="https://www.instagram.com/aline.bury/">
+    <img align="left" alt="Aline's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/aline-bury/">
+    <img align="left" alt="Aline's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+   <a href="">
+    <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
