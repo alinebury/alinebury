@@ -1,9 +1,9 @@
 <h3><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Olá, eu sou Aline Bury </h3>
 
 <p>
- Tenho 25 anos, moro em curitiba/PR.
+ Tenho 25 anos, moro em Curitiba/PR.
 <br>
- Sou estudante de desenvolvimento Web na Trybe e Sistema de informação na UTFPR.
+ Sou estudante de desenvolvimento Web na Trybe e Sistemas de informação na UTFPR.
 </p>
 
 <div align="center">
