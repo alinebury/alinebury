@@ -18,8 +18,7 @@ Sou estudante de Desenvolvimento Web na Trybe e Sistemas de Informação na UTFP
  <a href="" target="_blank"> <img alt="DOCKER" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> </a>
 <a href="" target="_blank"> <img alt="VSCODE" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </a>
 <a href="" target="_blank"> <img alt="LINUX" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> </a>
-          
-<!-- <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a> -->
 <!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a> -->
 
