@@ -1,4 +1,4 @@
-<h3><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5%">Olá, eu sou Aline Bury </h3>
+<h3><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15%">Olá, eu sou Aline Bury </h3>
 Sou estudante de Desenvolvimento Web na Trybe e Sistemas de Informação na UTFPR
 
 <div align="center">
