@@ -1,6 +1,3 @@
-<h3><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15%">Olá, eu sou Aline Bury </h3>
-Sou estudante de Desenvolvimento Web na Trybe e Sistemas de Informação na UTFPR
-
 <div align="center">
   <a href="https://github.com/alinebury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
