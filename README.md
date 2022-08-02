@@ -3,8 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebury&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
- 
-### 🔨 Languages and Tools:
+
 <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
 <img alt="HTML" align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS" align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
