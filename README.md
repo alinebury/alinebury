@@ -1,68 +1,56 @@
-# Hi, I'm Aline 👋
+# Aline Bury 👋
 
-Full Stack Developer with a strong backend focus, building scalable applications, APIs and integrations using modern technologies.
+### Full Stack Developer (Backend-focused)
 
-Currently working with Node.js, React, Python, AWS and cloud-based architectures, developing end-to-end solutions from backend services to frontend experiences.
+Building scalable applications, APIs and integrations using modern technologies.
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 ### Backend
-- Node.js
-- Express.js
-- Python
-- Django
-- FastAPI
-- REST APIs
-- GraphQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql" />
+</p>
 
 ### Frontend
-- React
-- Next.js
-- JavaScript
-- TypeScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
+</p>
 
-### Databases
-- PostgreSQL
-- MongoDB
-- Elasticsearch
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch" />
+</p>
 
 ### Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
 
 ### Testing
-- Jest
-- Cypress
-- Playwright
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
 
 ---
 
-## 💡 What I enjoy working on
+## 🚀 Currently working with
 
-- Backend architecture
-- APIs and integrations
 - Full stack applications
+- APIs & integrations
 - Cloud environments
 - Automation workflows
 - AI integrations
-- Performance and troubleshooting
-
----
-
-## 📌 Featured Projects
-
-### Project Name
-Short description about the project and technologies used.
-
-### Project Name
-Short description about the project and technologies used.
+- System troubleshooting
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/aline-bury/
+- LinkedIn: linkedin.com/in/aline-bury
